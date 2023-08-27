@@ -5,6 +5,7 @@ User will enter in 5 numbers
 After 5 numbers will be returned to user
 after the smallest of the 5 number will be told
 
+Version 1
 
  */
 
